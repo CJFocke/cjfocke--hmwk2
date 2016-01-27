@@ -1,0 +1,1 @@
+The purpose of this project is to get familiarized with the GitHub desktop app as well as the power shell.
